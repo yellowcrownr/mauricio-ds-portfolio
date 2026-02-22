@@ -1,0 +1,13 @@
+tienda_id,ciudad,nombre_cc,segmento,nivel_trafico,region,metros_cuadrados,año_apertura
+T01,Bogotá,Centro Comercial Andino,A,Alto,Centro,222,2012
+T02,Bogotá,Centro Comercial Titán,B,Medio,Centro,390,2015
+T03,Bogotá,Plaza de las Américas,B,Medio,Centro,226,2014
+T04,Medellín,El Tesoro,A,Alto,Occidente,191,2011
+T05,Medellín,Viva Envigado,B,Medio,Occidente,308,2017
+T06,Cali,Chipichape,A,Alto,Occidente,140,2021
+T07,Cali,Unicentro Cali,B,Medio,Occidente,222,2015
+T08,Barranquilla,Buenavista,B,Medio,Costa,241,2011
+T09,Cartagena,La Serrezuela,A,Alto,Costa,334,2021
+T10,Pereira,Parque Arboleda,B,Medio,Eje Cafetero,207,2014
+T11,Bucaramanga,Cacique,B,Medio,Oriente,219,2010
+T12,Manizales,Cable Plaza,C,Bajo,Eje Cafetero,271,2021
